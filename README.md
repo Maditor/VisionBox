@@ -44,13 +44,11 @@ API Key sẽ được **lưu tự động** lại trên máy, không cần nhậ
 | **Webtoon** | Hàn, Anh, Trung         | Từ trên xuống, trái sang phải               |
 | **Manga**  | Nhật, Anh | Từ trên xuống, **phải sang trái** (chuẩn manga) |
 
-👉 Ba lựa chọn đầu (Hàn/Anh/Trung) dành cho **webtoon** (đọc dọc, trái→phải). Riêng **Manga** dành cho định dạng đọc theo kiểu Nhật (phải→trái), và xử lý được cả nội dung tiếng Anh xen trong manga.
-
 Chọn đúng loại này rất quan trọng vì nó quyết định **thứ tự đọc bóng thoại** khi OCR — chọn sai sẽ khiến câu thoại bị xáo trộn thứ tự.
 
 ### Translate to (ngôn ngữ muốn dịch sang)
 
-Chọn ngôn ngữ đích: Vietnamese / English / Korean.
+Chọn ngôn ngữ đích: Vietnamese / English / Korean / Japanese / Chinese
 
 ### Skip SFX
 
