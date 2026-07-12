@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="{17DBDE66-875B-47CB-A956-F5E7A880185B}" src="https://github.com/user-attachments/assets/8eff9b38-2775-4136-9ce8-71d8ac7679d6" />
+
 # VisionBox — Hướng dẫn sử dụng
 
 VisionBox là công cụ **OCR + dịch truyện tranh** (webtoon / manga / manhwa / manhua) bằng Google Gemini. Chỉ cần kéo ảnh vào, chọn ngôn ngữ, bấm nút — tool tự quét chữ trong bóng thoại rồi dịch sang ngôn ngữ bạn muốn.
