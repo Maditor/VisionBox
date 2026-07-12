@@ -39,12 +39,10 @@ API Key sẽ được **lưu tự động** lại trên máy, không cần nhậ
 
 ### Source language (ngôn ngữ gốc của ảnh)
 
-| Lựa chọn | Dùng cho |
-|---|---|
-| **Korean (한국어)** | Webtoon Hàn — đọc từ trên xuống, trái sang phải |
-| **English** | Webtoon/comic tiếng Anh — đọc từ trên xuống, trái sang phải |
-| **Chinese (中文)** | Webtoon/manhua Trung — đọc từ trên xuống, trái sang phải |
-| **Manga** | Dùng cho **manga Nhật lẫn manga/comic tiếng Anh** — tool sẽ tự nhận diện bóng thoại là tiếng Nhật hay tiếng Anh trong từng bóng thoại, nhưng vẫn sắp xếp thứ tự đọc theo chuẩn manga: **trên xuống dưới, phải sang trái** |
+| Lựa chọn   | Ngôn ngữ                | Cách đọc                                    |
+|------------|-------------------------|---------------------------------------------|
+| **Webtoon** | Hàn, Anh, Trung         | Từ trên xuống, trái sang phải               |
+| **Manga**  | Nhật, Anh | Từ trên xuống, **phải sang trái** (chuẩn manga) |
 
 👉 Ba lựa chọn đầu (Hàn/Anh/Trung) dành cho **webtoon** (đọc dọc, trái→phải). Riêng **Manga** dành cho định dạng đọc theo kiểu Nhật (phải→trái), và xử lý được cả nội dung tiếng Anh xen trong manga.
 
